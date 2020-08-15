@@ -1,0 +1,8 @@
+com\firo\grocerylist\repositories\RecipeRepository.class
+com\firo\grocerylist\repositories\IngredientRepository.class
+com\firo\grocerylist\GroceryListApplication$1.class
+com\firo\grocerylist\models\Ingredient.class
+com\firo\grocerylist\controllers\IngredientController.class
+com\firo\grocerylist\controllers\RecipeController.class
+com\firo\grocerylist\GroceryListApplication.class
+com\firo\grocerylist\models\Recipe.class
